@@ -1,6 +1,6 @@
 # Ecommerce Website (Django/javascript)
 
-![Django Ecommerce Store]()
+![Django Ecommerce Store](https://github.com/jenishmodh/PC-Build/blob/main/core/static/img/e_shop.PNG)
 
 Full-featured shopping cart with PayPal & credit/debit payments
 
@@ -18,27 +18,15 @@ Product search, carousel, pagination & more
 
 ## How to install on Windows
 1. clone this project
-2. install virtualenv
-```
-pip install virtualenv
-```
-3. create new virtual environment
-```
-py -m venv venv
-```
-4. activate the new virtual
-```
-.\venv\Scripts\activate
-```
-5. install requirements.txt
+2. install requirements.txt
 ```
 pip install -r requirements.txt
 ```
-6. run local server to begin
+3. run local server to begin
  ```
  py manage.py runserver
  ```
- 7. go live with [localhost:8000](http://localhost:8000/)
+4. go live with [localhost:8000](http://localhost:8000/)
  
  ### To install on Unix/macOS  [see this document](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments)
  
