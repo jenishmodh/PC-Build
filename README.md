@@ -67,11 +67,3 @@ pip install -r requirements.txt
 - Easy to manage the site
 
 
-
-### Need help? Found a bug? Message me!
-
-
-
-<br>
-
-### Enjoy^^
